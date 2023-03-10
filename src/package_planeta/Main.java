@@ -14,7 +14,7 @@ public class Main {
             System.out.println((char)27+"[32m");
             System.out.println(planetas[i].toString());
             System.out.println("***********************************************************************************************************************************");
-
+            System.out.println("hola");
         }
 
     }
